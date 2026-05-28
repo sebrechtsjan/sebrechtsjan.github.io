@@ -1,0 +1,1 @@
+never overwrite images in this directory without explicit permission
